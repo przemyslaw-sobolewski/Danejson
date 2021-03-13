@@ -1,9 +1,12 @@
 {
   {"login":przemek@name.com ;
-  "password": przemek;
-  "login":viola@name.com;
-  "password":1234;
-  "login":kamil@name.com;
-  "login":5678;}
+  "password": przemek
+}
+{ "login":viola@name.com;
+  "password":1234
+}
+{ "login":kamil@name.com;
+  "login":5678
+}
 
 }
